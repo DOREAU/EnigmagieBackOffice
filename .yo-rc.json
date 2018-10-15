@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "EnigmagieBackOffice",
+    "packageName": "enigmagie.backoffice",
+    "packageFolder": "enigmagie/backoffice",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "session",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.4.2",
+    "rememberMeKey": "13218faaed653f51120d9b67e0a9ff1aa95dac0a1d29fac326913918534e9cb5f0f4deffcc15fd1448111d232486b07226ec"
+  },
+  "git-provider": "GitHub",
+  "git-company": "DOREAU",
+  "repository-name": "EnigmagieBackOffice"
+}
